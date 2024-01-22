@@ -1,3 +1,5 @@
+Dataset source: https://www.kaggle.com/datasets/grassknoted/asl-alphabet?resource=download
+
 ![alt text](https://github.com/StegarescuAnaMaria/ASL_Alphabet_Classification/blob/main/images/1.jpg)
 ![alt text](https://github.com/StegarescuAnaMaria/ASL_Alphabet_Classification/blob/main/images/2.jpg)
 ![alt text](https://github.com/StegarescuAnaMaria/ASL_Alphabet_Classification/blob/main/images/3.jpg)
